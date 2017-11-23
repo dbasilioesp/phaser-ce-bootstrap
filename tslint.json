@@ -9,8 +9,7 @@
     ],
     "radix": true,
     "quotemark": [
-      true,
-      "single"
+      false
     ],
     "no-unused-variable": [
       true
